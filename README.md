@@ -1,3 +1,3 @@
 # website-react
 
-Work in progress website made with react
+Website frontend made with react
