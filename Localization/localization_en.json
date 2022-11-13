@@ -1,0 +1,25 @@
+{
+    "header_title": "Welcome",
+    "heading": {
+        "home": "Home",
+        "projects": "Projects",
+        "links": "Links",
+        "cv": "CV"
+    },
+    "header_options": {
+        "darkmode": "Dark",
+        "lightmode": "Light",
+        "language": "Language"
+    },
+    "home": {
+        "about": "About",
+        "about_text": "hello"
+    },
+    "project": {
+        "languages": "Languages",
+        "technologies": "Technologies",
+        "year": "Year",
+        "description": "Description",
+        "features": "Features"
+    }
+}

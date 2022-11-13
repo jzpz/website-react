@@ -1,0 +1,25 @@
+{
+    "header_title": "Tervetuloa",
+    "heading": {
+        "home": "Koti",
+        "projects": "Projektit",
+        "links": "Linkit",
+        "cv": "Ansioluettelo"
+    },
+    "header_options": {
+        "darkmode": "Tumma",
+        "lightmode": "Vaalea",
+        "language": "Valitse kieli"
+    },
+    "home": {
+        "about": "Minusta",
+        "about_text": "terve"
+    },
+    "project": {
+        "languages": "Kielet",
+        "technologies": "Teknologiat",
+        "year": "Vuosi",
+        "description": "Kuvaus",
+        "features": "Ominaisuudet"
+    }
+}

@@ -1,0 +1,22 @@
+
+/* Bootstrap breakpoint values
+xs: 0;
+sm: 576px;
+md: 768px;
+lg: 992px;
+xl: 1200px;
+xxl: 1400px;
+*/
+
+
+@media (min-width: 768px /* md */) {
+    .nav-item a {
+        margin-left: 30px;
+    }
+}
+
+@media (max-width: 768px /* md */) {
+    .nav-item {
+        padding-top: 15px;
+    }
+}
